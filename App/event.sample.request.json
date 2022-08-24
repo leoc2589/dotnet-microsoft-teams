@@ -1,0 +1,28 @@
+{
+  "subject": "New Event",
+  "start": {
+    "dateTime": "2021-12-12T12:45:30",
+    "timeZone": "Etc/GMT"
+  },
+  "end": {
+    "dateTime": "2021-12-12T13:45:30",
+    "timeZone": "Etc/GMT"
+  },
+  "location": null,
+  "bodyPreview": null,
+  "isOnlineMeeting": true,
+  "attendees": [
+    {
+      "emailAddress": {
+        "address": "leoc2589@mailinator.com"
+      },
+      "type": "required",
+      "status": null
+    }
+  ],
+  "onlineMeetingUrl": null,
+  "onlineMeeting": null,
+  "onlineMeetingProvider": null,
+  "id": null,
+  "organizer": null
+}
