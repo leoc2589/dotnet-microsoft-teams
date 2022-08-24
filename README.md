@@ -12,7 +12,9 @@ Register an application with the Microsoft identity platform using [Quickstart: 
 
 Set Azure application parameters into `appsettings.Development.json`.
 
-***userId*** : event creator id
+***userId*** : event creator id.
+
+Set Microsoft Teams event parameters into `event.sample.request.json`.
 
 ### 3. Run application
 
